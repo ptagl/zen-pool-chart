@@ -1,0 +1,4 @@
+matplotlib==3.8.2
+pandas==2.2.0
+plotly==5.18.0
+Requests==2.31.0
